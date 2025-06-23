@@ -1,0 +1,5 @@
+TsvHttpData-1.0
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_depth_velodyne.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_depth_annotated.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/data_depth_selection.zip
+https://s3.eu-central-1.amazonaws.com/avg-kitti/devkit_depth.zip
